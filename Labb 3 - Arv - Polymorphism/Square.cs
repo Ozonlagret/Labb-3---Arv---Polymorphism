@@ -7,6 +7,7 @@
         public Square()
         {
             Side = 5;
+            // Slipper göra en ny ToString override på varje form för att det hanterades i huvudklassen
             Name = "square";
         }
 
