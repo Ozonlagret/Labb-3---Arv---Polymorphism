@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb 3 - Arv - Polymorphism", "Labb 3 - Arv - Polymorphism\Labb 3 - Arv - Polymorphism.csproj", "{037B5680-35A3-418E-9F00-CED42A60080F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037B5680-35A3-418E-9F00-CED42A60080F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037B5680-35A3-418E-9F00-CED42A60080F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037B5680-35A3-418E-9F00-CED42A60080F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037B5680-35A3-418E-9F00-CED42A60080F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5150B0F1-21C3-4638-B13C-5F29534F876F}
+	EndGlobalSection
+EndGlobal
