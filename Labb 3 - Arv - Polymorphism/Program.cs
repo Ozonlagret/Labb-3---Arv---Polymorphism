@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Här används Geometry för att initiera olika klasser som har arvt från den
-            // Fråga: Har det någon betydelse om man sätter Geometry istället för respektive underklass först?
+            // Här används Geometry för att initiera olika klasser som har ärvt från den
             Geometry square = new Square();
             Geometry circle = new Circle();
             Geometry rectangle = new Rectangle();

@@ -16,7 +16,7 @@
         // värden beroende på vilken area-ekvation som krävs
         public virtual double Area()
         {
-            return 0;
+            return default;
         }
     }
 }
