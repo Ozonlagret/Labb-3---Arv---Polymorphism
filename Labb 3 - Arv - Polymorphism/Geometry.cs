@@ -5,7 +5,7 @@
         // bidrar polymorfism då Name används flera gånger med olika värden på underklasser
         public string Name { get; set; } = String.Empty;
 
-        // Jag ändrar ToString() metoden att ge tillbaks Name istället för namnet på objektet som kallas
+        // Jag ändrar ToString() metoden att ge tillbaks Name istället för namnet på objektet som kallas.
         // Name ändras i varje form till namnet på respektive
         public override string ToString()
         {
