@@ -4,7 +4,7 @@
     {
         public double Side { get; set; }
 
-        public Square()
+        public Square() //Polymorfism i hur det är en form av geometri, och ärver då från den klassen. 
         {
             Side = 5;
             // Slipper göra en ny ToString override på varje form för att det hanterades i huvudklassen
